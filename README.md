@@ -226,7 +226,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [![Twitter](https://img.shields.io/badge/Twitter-Follow%20Us-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](twitter-link)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin-link)
 
-**Questions?** Reach out to us at [hello@aidataanalyzer.com](mailto:hello@aidataanalyzer.com)
+**Questions?** Reach out to us at [satotecodes@gmail.com](gmailto:satotecodes@gmail.com)
 
 </div>
 
@@ -238,6 +238,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ⭐ **Star us on GitHub** if you find this project helpful!
 
-[🌟 Try Live Demo](your-app-link-here)
+[🌟 Try Live Demo](https://mvp-ai-data-analyzer-urxtj3ddpaact7jkrijxvq.streamlit.app/)
 
 </div>
