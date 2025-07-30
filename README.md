@@ -1,4 +1,4 @@
-# 🚀 AI Data Analyzer Pro v3.0
+# 🚀 AI Data Analyzer
 
 <div align="center">
 
